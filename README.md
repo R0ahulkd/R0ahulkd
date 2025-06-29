@@ -1,4 +1,14 @@
-## Hi there 👋
+🎓 MCA @ LPU | 💻 Full-Stack Developer | 📊 Data Science Enthusiast
+
+🚀 Building smart apps with Java + React
+🤖 Crafting AI-powered chatbots & data-driven tools
+🌐 Passionate about Web Dev, AI, and Analytics
+
+📦 Tech Stack: Java • Spring Boot • React • Python • MongoDB • SQL
+📊 Exploring: Pandas • NumPy • DataViz
+
+📍 Let’s collaborate on impactful tech!
+📫 Reach me: LinkedIn | ✉️ DM for collab!
 
 <!--
 **R0ahulkd/R0ahulkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
