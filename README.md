@@ -1,5 +1,6 @@
 🎓 MCA @ LPU | 💻 Full-Stack Developer | 📊 Data Science Enthusiast
 
+
 🚀 Building smart apps with Java + React
 🤖 Crafting AI-powered chatbots & data-driven tools
 🌐 Passionate about Web Dev, AI, and Analytics
