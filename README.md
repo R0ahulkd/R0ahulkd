@@ -2,13 +2,18 @@
 
 
 🚀 Building smart apps with Java + React
+
 🤖 Crafting AI-powered chatbots & data-driven tools
+
 🌐 Passionate about Web Dev, AI, and Analytics
 
+
 📦 Tech Stack: Java • Spring Boot • React • Python • MongoDB • SQL
+
 📊 Exploring: Pandas • NumPy • DataViz
 
 📍 Let’s collaborate on impactful tech!
+
 📫 Reach me: LinkedIn | ✉️ DM for collab!
 
 ![snake gif](https://github.com/R0ahulkd/R0ahulkd/blob/output/github-snake-dark.svg)
