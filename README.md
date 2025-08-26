@@ -27,6 +27,8 @@ Other Interests
 📦 Exploring scalable backend architectures
 🔗 Contributing to open-source & impactful projects
 
+![snake gif](https://github.com/R0ahulkd/R0ahulkd/blob/output/github-snake-dark.svg)
+
 🌐 Let’s Connect
 📫 Reach me on LinkedIn
  | ✉️ DM me for collaborations
