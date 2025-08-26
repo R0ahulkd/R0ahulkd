@@ -1,34 +1,33 @@
-🎓 MCA @ LPU | 💻 Full-Stack Developer | 📊 Data Science Enthusiast
+👋 Hi, I’m Rahul Kumar
+🎓 Master of Computer Applications (MCA) @ Lovely Professional University
+💻 Full-Stack Developer | AI & Data Science Enthusiast
 
+🚀 About Me
+🌟 Passionate about crafting scalable web applications and intelligent AI-driven solutions
+💡 Love exploring the intersection of Web Development, Artificial Intelligence, and Data Analytics
+📊 Skilled in building data-driven applications and visualizing insights
+🌍 Always curious about new technologies and open-source collaboration
 
-🚀 Building smart apps with Java + React
+🛠️ Tech Toolbox
 
-🤖 Crafting AI-powered chatbots & data-driven tools
+Languages & Frameworks
+Java • Spring Boot • React.js • Python • SQL • MongoDB
 
-🌐 Passionate about Web Dev, AI, and Analytics
+AI & Data
+Pandas • NumPy • Data Visualization • Machine Learning (basics)
 
+Other Interests
+☁️ Cloud Deployment (AWS/GCP)
+🗄️ Database Design & Optimization
+🎨 Building interactive, user-friendly UIs
 
-📦 Tech Stack: Java • Spring Boot • React • Python • MongoDB • SQL
+📈 Current Focus
+🌱 Learning advanced Data Science techniques
+🤖 Enhancing AI-powered chatbot development
+📦 Exploring scalable backend architectures
+🔗 Contributing to open-source & impactful projects
 
-📊 Exploring: Pandas • NumPy • DataViz
-
-📍 Let’s collaborate on impactful tech!
-
-📫 Reach me: LinkedIn | ✉️ DM for collab!
-
-![snake gif](https://github.com/R0ahulkd/R0ahulkd/blob/output/github-snake-dark.svg)
-
-<!--
-**R0ahulkd/R0ahulkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Let’s Connect
+📫 Reach me on LinkedIn
+ | ✉️ DM me for collaborations
+💡 Open to discussions on Full-Stack Development, AI, and Data Projects
